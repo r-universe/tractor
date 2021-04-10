@@ -8,3 +8,4 @@
 	url = https://github.com/tractor/tractor
 	shallow = true
 	subdir = tractor.base
+	registered = true
