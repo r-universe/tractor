@@ -9,3 +9,4 @@
 	shallow = true
 	subdir = tractor.base
 	registered = true
+	oncran = true
