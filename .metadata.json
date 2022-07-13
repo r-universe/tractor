@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "tractor.base",
+    "oncran": true
+  }
+]
